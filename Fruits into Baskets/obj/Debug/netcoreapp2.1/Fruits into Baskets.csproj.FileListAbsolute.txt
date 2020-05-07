@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io Projects\Fruits into Baskets\obj\Debug\netcoreapp2.1\Fruits into Baskets.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io Projects\Fruits into Baskets\obj\Debug\netcoreapp2.1\Fruits into Baskets.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io Projects\Fruits into Baskets\obj\Debug\netcoreapp2.1\Fruits into Baskets.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io Projects\Fruits into Baskets\obj\Debug\netcoreapp2.1\Fruits into Baskets.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io Projects\Fruits into Baskets\bin\Debug\netcoreapp2.1\Fruits into Baskets.deps.json
+C:\Users\barna\Projects\Educative.io Projects\Fruits into Baskets\bin\Debug\netcoreapp2.1\Fruits into Baskets.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io Projects\Fruits into Baskets\bin\Debug\netcoreapp2.1\Fruits into Baskets.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io Projects\Fruits into Baskets\bin\Debug\netcoreapp2.1\Fruits into Baskets.dll
+C:\Users\barna\Projects\Educative.io Projects\Fruits into Baskets\bin\Debug\netcoreapp2.1\Fruits into Baskets.pdb
+C:\Users\barna\Projects\Educative.io Projects\Fruits into Baskets\obj\Debug\netcoreapp2.1\Fruits into Baskets.dll
+C:\Users\barna\Projects\Educative.io Projects\Fruits into Baskets\obj\Debug\netcoreapp2.1\Fruits into Baskets.pdb

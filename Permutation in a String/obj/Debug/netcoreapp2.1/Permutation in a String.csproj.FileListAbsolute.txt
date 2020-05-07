@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io Projects\Permutation in a String\bin\Debug\netcoreapp2.1\Permutation in a String.deps.json
+C:\Users\barna\Projects\Educative.io Projects\Permutation in a String\bin\Debug\netcoreapp2.1\Permutation in a String.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io Projects\Permutation in a String\bin\Debug\netcoreapp2.1\Permutation in a String.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io Projects\Permutation in a String\bin\Debug\netcoreapp2.1\Permutation in a String.dll
+C:\Users\barna\Projects\Educative.io Projects\Permutation in a String\bin\Debug\netcoreapp2.1\Permutation in a String.pdb
+C:\Users\barna\Projects\Educative.io Projects\Permutation in a String\obj\Debug\netcoreapp2.1\Permutation in a String.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io Projects\Permutation in a String\obj\Debug\netcoreapp2.1\Permutation in a String.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io Projects\Permutation in a String\obj\Debug\netcoreapp2.1\Permutation in a String.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io Projects\Permutation in a String\obj\Debug\netcoreapp2.1\Permutation in a String.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io Projects\Permutation in a String\obj\Debug\netcoreapp2.1\Permutation in a String.dll
+C:\Users\barna\Projects\Educative.io Projects\Permutation in a String\obj\Debug\netcoreapp2.1\Permutation in a String.pdb

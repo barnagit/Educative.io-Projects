@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io Projects\Longest Substring with Same Letters after Replacement\bin\Debug\netcoreapp2.1\Longest Substring with Same Letters after Replacement.deps.json
+C:\Users\barna\Projects\Educative.io Projects\Longest Substring with Same Letters after Replacement\bin\Debug\netcoreapp2.1\Longest Substring with Same Letters after Replacement.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io Projects\Longest Substring with Same Letters after Replacement\bin\Debug\netcoreapp2.1\Longest Substring with Same Letters after Replacement.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io Projects\Longest Substring with Same Letters after Replacement\bin\Debug\netcoreapp2.1\Longest Substring with Same Letters after Replacement.dll
+C:\Users\barna\Projects\Educative.io Projects\Longest Substring with Same Letters after Replacement\bin\Debug\netcoreapp2.1\Longest Substring with Same Letters after Replacement.pdb
+C:\Users\barna\Projects\Educative.io Projects\Longest Substring with Same Letters after Replacement\obj\Debug\netcoreapp2.1\Longest Substring with Same Letters after Replacement.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io Projects\Longest Substring with Same Letters after Replacement\obj\Debug\netcoreapp2.1\Longest Substring with Same Letters after Replacement.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io Projects\Longest Substring with Same Letters after Replacement\obj\Debug\netcoreapp2.1\Longest Substring with Same Letters after Replacement.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io Projects\Longest Substring with Same Letters after Replacement\obj\Debug\netcoreapp2.1\Longest Substring with Same Letters after Replacement.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io Projects\Longest Substring with Same Letters after Replacement\obj\Debug\netcoreapp2.1\Longest Substring with Same Letters after Replacement.dll
+C:\Users\barna\Projects\Educative.io Projects\Longest Substring with Same Letters after Replacement\obj\Debug\netcoreapp2.1\Longest Substring with Same Letters after Replacement.pdb

@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io Projects\Longest Subarray with Ones after Replacement\bin\Debug\netcoreapp2.1\Longest Subarray with Ones after Replacement.deps.json
+C:\Users\barna\Projects\Educative.io Projects\Longest Subarray with Ones after Replacement\bin\Debug\netcoreapp2.1\Longest Subarray with Ones after Replacement.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io Projects\Longest Subarray with Ones after Replacement\bin\Debug\netcoreapp2.1\Longest Subarray with Ones after Replacement.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io Projects\Longest Subarray with Ones after Replacement\bin\Debug\netcoreapp2.1\Longest Subarray with Ones after Replacement.dll
+C:\Users\barna\Projects\Educative.io Projects\Longest Subarray with Ones after Replacement\bin\Debug\netcoreapp2.1\Longest Subarray with Ones after Replacement.pdb
+C:\Users\barna\Projects\Educative.io Projects\Longest Subarray with Ones after Replacement\obj\Debug\netcoreapp2.1\Longest Subarray with Ones after Replacement.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io Projects\Longest Subarray with Ones after Replacement\obj\Debug\netcoreapp2.1\Longest Subarray with Ones after Replacement.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io Projects\Longest Subarray with Ones after Replacement\obj\Debug\netcoreapp2.1\Longest Subarray with Ones after Replacement.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io Projects\Longest Subarray with Ones after Replacement\obj\Debug\netcoreapp2.1\Longest Subarray with Ones after Replacement.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io Projects\Longest Subarray with Ones after Replacement\obj\Debug\netcoreapp2.1\Longest Subarray with Ones after Replacement.dll
+C:\Users\barna\Projects\Educative.io Projects\Longest Subarray with Ones after Replacement\obj\Debug\netcoreapp2.1\Longest Subarray with Ones after Replacement.pdb
