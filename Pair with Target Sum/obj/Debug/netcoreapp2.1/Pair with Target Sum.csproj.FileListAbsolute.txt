@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Pair with Target Sum\bin\Debug\netcoreapp2.1\Pair with Target Sum.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Pair with Target Sum\bin\Debug\netcoreapp2.1\Pair with Target Sum.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Pair with Target Sum\bin\Debug\netcoreapp2.1\Pair with Target Sum.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Pair with Target Sum\bin\Debug\netcoreapp2.1\Pair with Target Sum.dll
+C:\Users\barna\Projects\Educative.io-Projects\Pair with Target Sum\bin\Debug\netcoreapp2.1\Pair with Target Sum.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Pair with Target Sum\obj\Debug\netcoreapp2.1\Pair with Target Sum.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Pair with Target Sum\obj\Debug\netcoreapp2.1\Pair with Target Sum.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Pair with Target Sum\obj\Debug\netcoreapp2.1\Pair with Target Sum.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Pair with Target Sum\obj\Debug\netcoreapp2.1\Pair with Target Sum.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Pair with Target Sum\obj\Debug\netcoreapp2.1\Pair with Target Sum.dll
+C:\Users\barna\Projects\Educative.io-Projects\Pair with Target Sum\obj\Debug\netcoreapp2.1\Pair with Target Sum.pdb

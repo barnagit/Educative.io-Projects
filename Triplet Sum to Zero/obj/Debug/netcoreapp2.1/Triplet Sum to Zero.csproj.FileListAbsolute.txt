@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum to Zero\bin\Debug\netcoreapp2.1\Triplet Sum to Zero.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum to Zero\bin\Debug\netcoreapp2.1\Triplet Sum to Zero.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum to Zero\bin\Debug\netcoreapp2.1\Triplet Sum to Zero.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum to Zero\bin\Debug\netcoreapp2.1\Triplet Sum to Zero.dll
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum to Zero\bin\Debug\netcoreapp2.1\Triplet Sum to Zero.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum to Zero\obj\Debug\netcoreapp2.1\Triplet Sum to Zero.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum to Zero\obj\Debug\netcoreapp2.1\Triplet Sum to Zero.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum to Zero\obj\Debug\netcoreapp2.1\Triplet Sum to Zero.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum to Zero\obj\Debug\netcoreapp2.1\Triplet Sum to Zero.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum to Zero\obj\Debug\netcoreapp2.1\Triplet Sum to Zero.dll
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum to Zero\obj\Debug\netcoreapp2.1\Triplet Sum to Zero.pdb

@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Triplets with Smaller Sum\bin\Debug\netcoreapp2.1\Triplets with Smaller Sum.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Triplets with Smaller Sum\bin\Debug\netcoreapp2.1\Triplets with Smaller Sum.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Triplets with Smaller Sum\bin\Debug\netcoreapp2.1\Triplets with Smaller Sum.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Triplets with Smaller Sum\bin\Debug\netcoreapp2.1\Triplets with Smaller Sum.dll
+C:\Users\barna\Projects\Educative.io-Projects\Triplets with Smaller Sum\bin\Debug\netcoreapp2.1\Triplets with Smaller Sum.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Triplets with Smaller Sum\obj\Debug\netcoreapp2.1\Triplets with Smaller Sum.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Triplets with Smaller Sum\obj\Debug\netcoreapp2.1\Triplets with Smaller Sum.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Triplets with Smaller Sum\obj\Debug\netcoreapp2.1\Triplets with Smaller Sum.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Triplets with Smaller Sum\obj\Debug\netcoreapp2.1\Triplets with Smaller Sum.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Triplets with Smaller Sum\obj\Debug\netcoreapp2.1\Triplets with Smaller Sum.dll
+C:\Users\barna\Projects\Educative.io-Projects\Triplets with Smaller Sum\obj\Debug\netcoreapp2.1\Triplets with Smaller Sum.pdb

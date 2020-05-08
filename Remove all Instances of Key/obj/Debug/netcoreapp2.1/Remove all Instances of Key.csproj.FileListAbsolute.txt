@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Remove all Instances of Key\bin\Debug\netcoreapp2.1\Remove all Instances of Key.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Remove all Instances of Key\bin\Debug\netcoreapp2.1\Remove all Instances of Key.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Remove all Instances of Key\bin\Debug\netcoreapp2.1\Remove all Instances of Key.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Remove all Instances of Key\bin\Debug\netcoreapp2.1\Remove all Instances of Key.dll
+C:\Users\barna\Projects\Educative.io-Projects\Remove all Instances of Key\bin\Debug\netcoreapp2.1\Remove all Instances of Key.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Remove all Instances of Key\obj\Debug\netcoreapp2.1\Remove all Instances of Key.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Remove all Instances of Key\obj\Debug\netcoreapp2.1\Remove all Instances of Key.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Remove all Instances of Key\obj\Debug\netcoreapp2.1\Remove all Instances of Key.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Remove all Instances of Key\obj\Debug\netcoreapp2.1\Remove all Instances of Key.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Remove all Instances of Key\obj\Debug\netcoreapp2.1\Remove all Instances of Key.dll
+C:\Users\barna\Projects\Educative.io-Projects\Remove all Instances of Key\obj\Debug\netcoreapp2.1\Remove all Instances of Key.pdb

@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Dutch National Flag Problem\bin\Debug\netcoreapp2.1\Dutch National Flag Problem.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Dutch National Flag Problem\bin\Debug\netcoreapp2.1\Dutch National Flag Problem.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Dutch National Flag Problem\bin\Debug\netcoreapp2.1\Dutch National Flag Problem.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Dutch National Flag Problem\bin\Debug\netcoreapp2.1\Dutch National Flag Problem.dll
+C:\Users\barna\Projects\Educative.io-Projects\Dutch National Flag Problem\bin\Debug\netcoreapp2.1\Dutch National Flag Problem.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Dutch National Flag Problem\obj\Debug\netcoreapp2.1\Dutch National Flag Problem.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Dutch National Flag Problem\obj\Debug\netcoreapp2.1\Dutch National Flag Problem.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Dutch National Flag Problem\obj\Debug\netcoreapp2.1\Dutch National Flag Problem.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Dutch National Flag Problem\obj\Debug\netcoreapp2.1\Dutch National Flag Problem.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Dutch National Flag Problem\obj\Debug\netcoreapp2.1\Dutch National Flag Problem.dll
+C:\Users\barna\Projects\Educative.io-Projects\Dutch National Flag Problem\obj\Debug\netcoreapp2.1\Dutch National Flag Problem.pdb

@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Squaring a Sorted Array\bin\Debug\netcoreapp2.1\Squaring a Sorted Array.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Squaring a Sorted Array\bin\Debug\netcoreapp2.1\Squaring a Sorted Array.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Squaring a Sorted Array\bin\Debug\netcoreapp2.1\Squaring a Sorted Array.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Squaring a Sorted Array\bin\Debug\netcoreapp2.1\Squaring a Sorted Array.dll
+C:\Users\barna\Projects\Educative.io-Projects\Squaring a Sorted Array\bin\Debug\netcoreapp2.1\Squaring a Sorted Array.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Squaring a Sorted Array\obj\Debug\netcoreapp2.1\Squaring a Sorted Array.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Squaring a Sorted Array\obj\Debug\netcoreapp2.1\Squaring a Sorted Array.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Squaring a Sorted Array\obj\Debug\netcoreapp2.1\Squaring a Sorted Array.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Squaring a Sorted Array\obj\Debug\netcoreapp2.1\Squaring a Sorted Array.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Squaring a Sorted Array\obj\Debug\netcoreapp2.1\Squaring a Sorted Array.dll
+C:\Users\barna\Projects\Educative.io-Projects\Squaring a Sorted Array\obj\Debug\netcoreapp2.1\Squaring a Sorted Array.pdb

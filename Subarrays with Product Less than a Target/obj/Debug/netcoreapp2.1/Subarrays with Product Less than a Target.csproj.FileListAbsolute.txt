@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Subarrays with Product Less than a Target\bin\Debug\netcoreapp2.1\Subarrays with Product Less than a Target.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Subarrays with Product Less than a Target\bin\Debug\netcoreapp2.1\Subarrays with Product Less than a Target.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Subarrays with Product Less than a Target\bin\Debug\netcoreapp2.1\Subarrays with Product Less than a Target.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Subarrays with Product Less than a Target\bin\Debug\netcoreapp2.1\Subarrays with Product Less than a Target.dll
+C:\Users\barna\Projects\Educative.io-Projects\Subarrays with Product Less than a Target\bin\Debug\netcoreapp2.1\Subarrays with Product Less than a Target.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Subarrays with Product Less than a Target\obj\Debug\netcoreapp2.1\Subarrays with Product Less than a Target.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Subarrays with Product Less than a Target\obj\Debug\netcoreapp2.1\Subarrays with Product Less than a Target.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Subarrays with Product Less than a Target\obj\Debug\netcoreapp2.1\Subarrays with Product Less than a Target.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Subarrays with Product Less than a Target\obj\Debug\netcoreapp2.1\Subarrays with Product Less than a Target.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Subarrays with Product Less than a Target\obj\Debug\netcoreapp2.1\Subarrays with Product Less than a Target.dll
+C:\Users\barna\Projects\Educative.io-Projects\Subarrays with Product Less than a Target\obj\Debug\netcoreapp2.1\Subarrays with Product Less than a Target.pdb

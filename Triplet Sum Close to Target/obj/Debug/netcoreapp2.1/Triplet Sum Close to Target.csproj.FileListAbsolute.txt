@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum Close to Target\bin\Debug\netcoreapp2.1\Triplet Sum Close to Target.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum Close to Target\bin\Debug\netcoreapp2.1\Triplet Sum Close to Target.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum Close to Target\bin\Debug\netcoreapp2.1\Triplet Sum Close to Target.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum Close to Target\bin\Debug\netcoreapp2.1\Triplet Sum Close to Target.dll
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum Close to Target\bin\Debug\netcoreapp2.1\Triplet Sum Close to Target.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum Close to Target\obj\Debug\netcoreapp2.1\Triplet Sum Close to Target.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum Close to Target\obj\Debug\netcoreapp2.1\Triplet Sum Close to Target.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum Close to Target\obj\Debug\netcoreapp2.1\Triplet Sum Close to Target.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum Close to Target\obj\Debug\netcoreapp2.1\Triplet Sum Close to Target.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum Close to Target\obj\Debug\netcoreapp2.1\Triplet Sum Close to Target.dll
+C:\Users\barna\Projects\Educative.io-Projects\Triplet Sum Close to Target\obj\Debug\netcoreapp2.1\Triplet Sum Close to Target.pdb

@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Remove Duplicates\obj\Debug\netcoreapp2.1\Remove Duplicates.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Remove Duplicates\obj\Debug\netcoreapp2.1\Remove Duplicates.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Remove Duplicates\obj\Debug\netcoreapp2.1\Remove Duplicates.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Remove Duplicates\obj\Debug\netcoreapp2.1\Remove Duplicates.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Remove Duplicates\bin\Debug\netcoreapp2.1\Remove Duplicates.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Remove Duplicates\bin\Debug\netcoreapp2.1\Remove Duplicates.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Remove Duplicates\bin\Debug\netcoreapp2.1\Remove Duplicates.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Remove Duplicates\bin\Debug\netcoreapp2.1\Remove Duplicates.dll
+C:\Users\barna\Projects\Educative.io-Projects\Remove Duplicates\bin\Debug\netcoreapp2.1\Remove Duplicates.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Remove Duplicates\obj\Debug\netcoreapp2.1\Remove Duplicates.dll
+C:\Users\barna\Projects\Educative.io-Projects\Remove Duplicates\obj\Debug\netcoreapp2.1\Remove Duplicates.pdb
