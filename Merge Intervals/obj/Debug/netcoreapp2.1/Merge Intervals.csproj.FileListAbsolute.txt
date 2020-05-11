@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Merge Intervals\bin\Debug\netcoreapp2.1\Merge Intervals.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Merge Intervals\bin\Debug\netcoreapp2.1\Merge Intervals.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Merge Intervals\bin\Debug\netcoreapp2.1\Merge Intervals.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Merge Intervals\bin\Debug\netcoreapp2.1\Merge Intervals.dll
+C:\Users\barna\Projects\Educative.io-Projects\Merge Intervals\bin\Debug\netcoreapp2.1\Merge Intervals.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Merge Intervals\obj\Debug\netcoreapp2.1\Merge Intervals.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Merge Intervals\obj\Debug\netcoreapp2.1\Merge Intervals.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Merge Intervals\obj\Debug\netcoreapp2.1\Merge Intervals.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Merge Intervals\obj\Debug\netcoreapp2.1\Merge Intervals.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Merge Intervals\obj\Debug\netcoreapp2.1\Merge Intervals.dll
+C:\Users\barna\Projects\Educative.io-Projects\Merge Intervals\obj\Debug\netcoreapp2.1\Merge Intervals.pdb

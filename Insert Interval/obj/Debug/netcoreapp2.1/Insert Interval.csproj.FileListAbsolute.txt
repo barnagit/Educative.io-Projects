@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Insert Interval\bin\Debug\netcoreapp2.1\Insert Interval.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Insert Interval\bin\Debug\netcoreapp2.1\Insert Interval.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Insert Interval\bin\Debug\netcoreapp2.1\Insert Interval.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Insert Interval\bin\Debug\netcoreapp2.1\Insert Interval.dll
+C:\Users\barna\Projects\Educative.io-Projects\Insert Interval\bin\Debug\netcoreapp2.1\Insert Interval.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Insert Interval\obj\Debug\netcoreapp2.1\Insert Interval.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Insert Interval\obj\Debug\netcoreapp2.1\Insert Interval.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Insert Interval\obj\Debug\netcoreapp2.1\Insert Interval.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Insert Interval\obj\Debug\netcoreapp2.1\Insert Interval.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Insert Interval\obj\Debug\netcoreapp2.1\Insert Interval.dll
+C:\Users\barna\Projects\Educative.io-Projects\Insert Interval\obj\Debug\netcoreapp2.1\Insert Interval.pdb

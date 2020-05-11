@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Conflicting Appointments\bin\Debug\netcoreapp2.1\Conflicting Appointments.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Conflicting Appointments\bin\Debug\netcoreapp2.1\Conflicting Appointments.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Conflicting Appointments\bin\Debug\netcoreapp2.1\Conflicting Appointments.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Conflicting Appointments\bin\Debug\netcoreapp2.1\Conflicting Appointments.dll
+C:\Users\barna\Projects\Educative.io-Projects\Conflicting Appointments\bin\Debug\netcoreapp2.1\Conflicting Appointments.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Conflicting Appointments\obj\Debug\netcoreapp2.1\Conflicting Appointments.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Conflicting Appointments\obj\Debug\netcoreapp2.1\Conflicting Appointments.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Conflicting Appointments\obj\Debug\netcoreapp2.1\Conflicting Appointments.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Conflicting Appointments\obj\Debug\netcoreapp2.1\Conflicting Appointments.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Conflicting Appointments\obj\Debug\netcoreapp2.1\Conflicting Appointments.dll
+C:\Users\barna\Projects\Educative.io-Projects\Conflicting Appointments\obj\Debug\netcoreapp2.1\Conflicting Appointments.pdb

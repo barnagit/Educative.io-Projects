@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Intervals Intersection\bin\Debug\netcoreapp2.1\Intervals Intersection.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Intervals Intersection\bin\Debug\netcoreapp2.1\Intervals Intersection.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Intervals Intersection\bin\Debug\netcoreapp2.1\Intervals Intersection.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Intervals Intersection\bin\Debug\netcoreapp2.1\Intervals Intersection.dll
+C:\Users\barna\Projects\Educative.io-Projects\Intervals Intersection\bin\Debug\netcoreapp2.1\Intervals Intersection.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Intervals Intersection\obj\Debug\netcoreapp2.1\Intervals Intersection.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Intervals Intersection\obj\Debug\netcoreapp2.1\Intervals Intersection.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Intervals Intersection\obj\Debug\netcoreapp2.1\Intervals Intersection.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Intervals Intersection\obj\Debug\netcoreapp2.1\Intervals Intersection.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Intervals Intersection\obj\Debug\netcoreapp2.1\Intervals Intersection.dll
+C:\Users\barna\Projects\Educative.io-Projects\Intervals Intersection\obj\Debug\netcoreapp2.1\Intervals Intersection.pdb
