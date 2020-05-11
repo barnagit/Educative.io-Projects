@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Middle of the LinkedList\bin\Debug\netcoreapp2.1\Middle of the LinkedList.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Middle of the LinkedList\bin\Debug\netcoreapp2.1\Middle of the LinkedList.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Middle of the LinkedList\bin\Debug\netcoreapp2.1\Middle of the LinkedList.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Middle of the LinkedList\bin\Debug\netcoreapp2.1\Middle of the LinkedList.dll
+C:\Users\barna\Projects\Educative.io-Projects\Middle of the LinkedList\bin\Debug\netcoreapp2.1\Middle of the LinkedList.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Middle of the LinkedList\obj\Debug\netcoreapp2.1\Middle of the LinkedList.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Middle of the LinkedList\obj\Debug\netcoreapp2.1\Middle of the LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Middle of the LinkedList\obj\Debug\netcoreapp2.1\Middle of the LinkedList.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Middle of the LinkedList\obj\Debug\netcoreapp2.1\Middle of the LinkedList.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Middle of the LinkedList\obj\Debug\netcoreapp2.1\Middle of the LinkedList.dll
+C:\Users\barna\Projects\Educative.io-Projects\Middle of the LinkedList\obj\Debug\netcoreapp2.1\Middle of the LinkedList.pdb

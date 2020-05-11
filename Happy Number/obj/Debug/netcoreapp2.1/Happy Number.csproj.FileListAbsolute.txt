@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Happy Number\obj\Debug\netcoreapp2.1\Happy Number.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Happy Number\obj\Debug\netcoreapp2.1\Happy Number.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Happy Number\obj\Debug\netcoreapp2.1\Happy Number.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Happy Number\obj\Debug\netcoreapp2.1\Happy Number.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Happy Number\bin\Debug\netcoreapp2.1\Happy Number.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Happy Number\bin\Debug\netcoreapp2.1\Happy Number.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Happy Number\bin\Debug\netcoreapp2.1\Happy Number.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Happy Number\bin\Debug\netcoreapp2.1\Happy Number.dll
+C:\Users\barna\Projects\Educative.io-Projects\Happy Number\bin\Debug\netcoreapp2.1\Happy Number.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Happy Number\obj\Debug\netcoreapp2.1\Happy Number.dll
+C:\Users\barna\Projects\Educative.io-Projects\Happy Number\obj\Debug\netcoreapp2.1\Happy Number.pdb
