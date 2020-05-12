@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Cyclic Sort\bin\Debug\netcoreapp2.1\Cyclic Sort.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Cyclic Sort\bin\Debug\netcoreapp2.1\Cyclic Sort.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Cyclic Sort\bin\Debug\netcoreapp2.1\Cyclic Sort.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Cyclic Sort\bin\Debug\netcoreapp2.1\Cyclic Sort.dll
+C:\Users\barna\Projects\Educative.io-Projects\Cyclic Sort\bin\Debug\netcoreapp2.1\Cyclic Sort.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Cyclic Sort\obj\Debug\netcoreapp2.1\Cyclic Sort.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Cyclic Sort\obj\Debug\netcoreapp2.1\Cyclic Sort.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Cyclic Sort\obj\Debug\netcoreapp2.1\Cyclic Sort.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Cyclic Sort\obj\Debug\netcoreapp2.1\Cyclic Sort.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Cyclic Sort\obj\Debug\netcoreapp2.1\Cyclic Sort.dll
+C:\Users\barna\Projects\Educative.io-Projects\Cyclic Sort\obj\Debug\netcoreapp2.1\Cyclic Sort.pdb

@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Find the Missing Number\bin\Debug\netcoreapp2.1\Find the Missing Number.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Find the Missing Number\bin\Debug\netcoreapp2.1\Find the Missing Number.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Find the Missing Number\bin\Debug\netcoreapp2.1\Find the Missing Number.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Find the Missing Number\bin\Debug\netcoreapp2.1\Find the Missing Number.dll
+C:\Users\barna\Projects\Educative.io-Projects\Find the Missing Number\bin\Debug\netcoreapp2.1\Find the Missing Number.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Find the Missing Number\obj\Debug\netcoreapp2.1\Find the Missing Number.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Find the Missing Number\obj\Debug\netcoreapp2.1\Find the Missing Number.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Find the Missing Number\obj\Debug\netcoreapp2.1\Find the Missing Number.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Find the Missing Number\obj\Debug\netcoreapp2.1\Find the Missing Number.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Find the Missing Number\obj\Debug\netcoreapp2.1\Find the Missing Number.dll
+C:\Users\barna\Projects\Educative.io-Projects\Find the Missing Number\obj\Debug\netcoreapp2.1\Find the Missing Number.pdb

@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Find all Duplicate Numbers\bin\Debug\netcoreapp2.1\Find all Duplicate Numbers.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Find all Duplicate Numbers\bin\Debug\netcoreapp2.1\Find all Duplicate Numbers.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Find all Duplicate Numbers\bin\Debug\netcoreapp2.1\Find all Duplicate Numbers.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Find all Duplicate Numbers\bin\Debug\netcoreapp2.1\Find all Duplicate Numbers.dll
+C:\Users\barna\Projects\Educative.io-Projects\Find all Duplicate Numbers\bin\Debug\netcoreapp2.1\Find all Duplicate Numbers.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Find all Duplicate Numbers\obj\Debug\netcoreapp2.1\Find all Duplicate Numbers.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Find all Duplicate Numbers\obj\Debug\netcoreapp2.1\Find all Duplicate Numbers.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Find all Duplicate Numbers\obj\Debug\netcoreapp2.1\Find all Duplicate Numbers.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Find all Duplicate Numbers\obj\Debug\netcoreapp2.1\Find all Duplicate Numbers.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Find all Duplicate Numbers\obj\Debug\netcoreapp2.1\Find all Duplicate Numbers.dll
+C:\Users\barna\Projects\Educative.io-Projects\Find all Duplicate Numbers\obj\Debug\netcoreapp2.1\Find all Duplicate Numbers.pdb
