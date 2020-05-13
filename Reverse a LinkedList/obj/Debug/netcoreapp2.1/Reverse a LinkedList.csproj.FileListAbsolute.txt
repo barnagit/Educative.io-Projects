@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a LinkedList\bin\Debug\netcoreapp2.1\Reverse a LinkedList.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a LinkedList\bin\Debug\netcoreapp2.1\Reverse a LinkedList.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a LinkedList\bin\Debug\netcoreapp2.1\Reverse a LinkedList.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a LinkedList\bin\Debug\netcoreapp2.1\Reverse a LinkedList.dll
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a LinkedList\bin\Debug\netcoreapp2.1\Reverse a LinkedList.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a LinkedList\obj\Debug\netcoreapp2.1\Reverse a LinkedList.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a LinkedList\obj\Debug\netcoreapp2.1\Reverse a LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a LinkedList\obj\Debug\netcoreapp2.1\Reverse a LinkedList.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a LinkedList\obj\Debug\netcoreapp2.1\Reverse a LinkedList.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a LinkedList\obj\Debug\netcoreapp2.1\Reverse a LinkedList.dll
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a LinkedList\obj\Debug\netcoreapp2.1\Reverse a LinkedList.pdb

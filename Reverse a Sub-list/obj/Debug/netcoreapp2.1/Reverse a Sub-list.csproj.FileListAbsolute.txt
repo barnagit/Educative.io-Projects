@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a Sub-list\bin\Debug\netcoreapp2.1\Reverse a Sub-list.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a Sub-list\bin\Debug\netcoreapp2.1\Reverse a Sub-list.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a Sub-list\bin\Debug\netcoreapp2.1\Reverse a Sub-list.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a Sub-list\bin\Debug\netcoreapp2.1\Reverse a Sub-list.dll
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a Sub-list\bin\Debug\netcoreapp2.1\Reverse a Sub-list.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a Sub-list\obj\Debug\netcoreapp2.1\Reverse a Sub-list.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a Sub-list\obj\Debug\netcoreapp2.1\Reverse a Sub-list.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a Sub-list\obj\Debug\netcoreapp2.1\Reverse a Sub-list.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a Sub-list\obj\Debug\netcoreapp2.1\Reverse a Sub-list.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a Sub-list\obj\Debug\netcoreapp2.1\Reverse a Sub-list.dll
+C:\Users\barna\Projects\Educative.io-Projects\Reverse a Sub-list\obj\Debug\netcoreapp2.1\Reverse a Sub-list.pdb

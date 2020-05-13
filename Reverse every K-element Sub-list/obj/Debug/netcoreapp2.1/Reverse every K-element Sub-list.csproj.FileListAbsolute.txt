@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Reverse every K-element Sub-list\bin\Debug\netcoreapp2.1\Reverse every K-element Sub-list.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Reverse every K-element Sub-list\bin\Debug\netcoreapp2.1\Reverse every K-element Sub-list.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Reverse every K-element Sub-list\bin\Debug\netcoreapp2.1\Reverse every K-element Sub-list.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Reverse every K-element Sub-list\bin\Debug\netcoreapp2.1\Reverse every K-element Sub-list.dll
+C:\Users\barna\Projects\Educative.io-Projects\Reverse every K-element Sub-list\bin\Debug\netcoreapp2.1\Reverse every K-element Sub-list.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Reverse every K-element Sub-list\obj\Debug\netcoreapp2.1\Reverse every K-element Sub-list.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Reverse every K-element Sub-list\obj\Debug\netcoreapp2.1\Reverse every K-element Sub-list.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Reverse every K-element Sub-list\obj\Debug\netcoreapp2.1\Reverse every K-element Sub-list.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Reverse every K-element Sub-list\obj\Debug\netcoreapp2.1\Reverse every K-element Sub-list.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Reverse every K-element Sub-list\obj\Debug\netcoreapp2.1\Reverse every K-element Sub-list.dll
+C:\Users\barna\Projects\Educative.io-Projects\Reverse every K-element Sub-list\obj\Debug\netcoreapp2.1\Reverse every K-element Sub-list.pdb
