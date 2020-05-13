@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Path With Given Sequence\bin\Debug\netcoreapp2.1\Path With Given Sequence.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Path With Given Sequence\bin\Debug\netcoreapp2.1\Path With Given Sequence.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Path With Given Sequence\bin\Debug\netcoreapp2.1\Path With Given Sequence.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Path With Given Sequence\bin\Debug\netcoreapp2.1\Path With Given Sequence.dll
+C:\Users\barna\Projects\Educative.io-Projects\Path With Given Sequence\bin\Debug\netcoreapp2.1\Path With Given Sequence.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Path With Given Sequence\obj\Debug\netcoreapp2.1\Path With Given Sequence.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Path With Given Sequence\obj\Debug\netcoreapp2.1\Path With Given Sequence.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Path With Given Sequence\obj\Debug\netcoreapp2.1\Path With Given Sequence.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Path With Given Sequence\obj\Debug\netcoreapp2.1\Path With Given Sequence.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Path With Given Sequence\obj\Debug\netcoreapp2.1\Path With Given Sequence.dll
+C:\Users\barna\Projects\Educative.io-Projects\Path With Given Sequence\obj\Debug\netcoreapp2.1\Path With Given Sequence.pdb

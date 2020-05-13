@@ -1,0 +1,11 @@
+C:\Users\barna\Projects\Educative.io-Projects\Sum of Path Number\bin\Debug\netcoreapp2.1\Sum of Path Number.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Sum of Path Number\bin\Debug\netcoreapp2.1\Sum of Path Number.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Sum of Path Number\bin\Debug\netcoreapp2.1\Sum of Path Number.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Sum of Path Number\bin\Debug\netcoreapp2.1\Sum of Path Number.dll
+C:\Users\barna\Projects\Educative.io-Projects\Sum of Path Number\bin\Debug\netcoreapp2.1\Sum of Path Number.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Sum of Path Number\obj\Debug\netcoreapp2.1\Sum of Path Number.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Sum of Path Number\obj\Debug\netcoreapp2.1\Sum of Path Number.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Sum of Path Number\obj\Debug\netcoreapp2.1\Sum of Path Number.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Sum of Path Number\obj\Debug\netcoreapp2.1\Sum of Path Number.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Sum of Path Number\obj\Debug\netcoreapp2.1\Sum of Path Number.dll
+C:\Users\barna\Projects\Educative.io-Projects\Sum of Path Number\obj\Debug\netcoreapp2.1\Sum of Path Number.pdb
