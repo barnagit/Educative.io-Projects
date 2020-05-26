@@ -1,0 +1,13 @@
+C:\Users\bhajzer\Projects\Educative.io-Projects\Connect Level Order Siblings\obj\Debug\netcoreapp3.1\Connect Level Order Siblings.csprojAssemblyReference.cache
+C:\Users\bhajzer\Projects\Educative.io-Projects\Connect Level Order Siblings\obj\Debug\netcoreapp3.1\Connect Level Order Siblings.AssemblyInfoInputs.cache
+C:\Users\bhajzer\Projects\Educative.io-Projects\Connect Level Order Siblings\obj\Debug\netcoreapp3.1\Connect Level Order Siblings.AssemblyInfo.cs
+C:\Users\bhajzer\Projects\Educative.io-Projects\Connect Level Order Siblings\obj\Debug\netcoreapp3.1\Connect Level Order Siblings.csproj.CoreCompileInputs.cache
+C:\Users\bhajzer\Projects\Educative.io-Projects\Connect Level Order Siblings\bin\Debug\netcoreapp3.1\Connect Level Order Siblings.exe
+C:\Users\bhajzer\Projects\Educative.io-Projects\Connect Level Order Siblings\bin\Debug\netcoreapp3.1\Connect Level Order Siblings.deps.json
+C:\Users\bhajzer\Projects\Educative.io-Projects\Connect Level Order Siblings\bin\Debug\netcoreapp3.1\Connect Level Order Siblings.runtimeconfig.json
+C:\Users\bhajzer\Projects\Educative.io-Projects\Connect Level Order Siblings\bin\Debug\netcoreapp3.1\Connect Level Order Siblings.runtimeconfig.dev.json
+C:\Users\bhajzer\Projects\Educative.io-Projects\Connect Level Order Siblings\bin\Debug\netcoreapp3.1\Connect Level Order Siblings.dll
+C:\Users\bhajzer\Projects\Educative.io-Projects\Connect Level Order Siblings\bin\Debug\netcoreapp3.1\Connect Level Order Siblings.pdb
+C:\Users\bhajzer\Projects\Educative.io-Projects\Connect Level Order Siblings\obj\Debug\netcoreapp3.1\Connect Level Order Siblings.dll
+C:\Users\bhajzer\Projects\Educative.io-Projects\Connect Level Order Siblings\obj\Debug\netcoreapp3.1\Connect Level Order Siblings.pdb
+C:\Users\bhajzer\Projects\Educative.io-Projects\Connect Level Order Siblings\obj\Debug\netcoreapp3.1\Connect Level Order Siblings.genruntimeconfig.cache

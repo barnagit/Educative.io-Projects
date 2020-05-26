@@ -1,0 +1,13 @@
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Order Successor\bin\Debug\netcoreapp3.1\Level Order Successor.exe
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Order Successor\bin\Debug\netcoreapp3.1\Level Order Successor.deps.json
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Order Successor\bin\Debug\netcoreapp3.1\Level Order Successor.runtimeconfig.json
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Order Successor\bin\Debug\netcoreapp3.1\Level Order Successor.runtimeconfig.dev.json
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Order Successor\bin\Debug\netcoreapp3.1\Level Order Successor.dll
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Order Successor\bin\Debug\netcoreapp3.1\Level Order Successor.pdb
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Order Successor\obj\Debug\netcoreapp3.1\Level Order Successor.csprojAssemblyReference.cache
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Order Successor\obj\Debug\netcoreapp3.1\Level Order Successor.AssemblyInfoInputs.cache
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Order Successor\obj\Debug\netcoreapp3.1\Level Order Successor.AssemblyInfo.cs
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Order Successor\obj\Debug\netcoreapp3.1\Level Order Successor.csproj.CoreCompileInputs.cache
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Order Successor\obj\Debug\netcoreapp3.1\Level Order Successor.dll
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Order Successor\obj\Debug\netcoreapp3.1\Level Order Successor.pdb
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Order Successor\obj\Debug\netcoreapp3.1\Level Order Successor.genruntimeconfig.cache

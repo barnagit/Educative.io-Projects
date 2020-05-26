@@ -1,0 +1,13 @@
+C:\Users\bhajzer\Projects\Educative.io-Projects\ZigZag Traversal\bin\Debug\netcoreapp3.1\ZigZag Traversal.exe
+C:\Users\bhajzer\Projects\Educative.io-Projects\ZigZag Traversal\bin\Debug\netcoreapp3.1\ZigZag Traversal.deps.json
+C:\Users\bhajzer\Projects\Educative.io-Projects\ZigZag Traversal\bin\Debug\netcoreapp3.1\ZigZag Traversal.runtimeconfig.json
+C:\Users\bhajzer\Projects\Educative.io-Projects\ZigZag Traversal\bin\Debug\netcoreapp3.1\ZigZag Traversal.runtimeconfig.dev.json
+C:\Users\bhajzer\Projects\Educative.io-Projects\ZigZag Traversal\bin\Debug\netcoreapp3.1\ZigZag Traversal.dll
+C:\Users\bhajzer\Projects\Educative.io-Projects\ZigZag Traversal\bin\Debug\netcoreapp3.1\ZigZag Traversal.pdb
+C:\Users\bhajzer\Projects\Educative.io-Projects\ZigZag Traversal\obj\Debug\netcoreapp3.1\ZigZag Traversal.csprojAssemblyReference.cache
+C:\Users\bhajzer\Projects\Educative.io-Projects\ZigZag Traversal\obj\Debug\netcoreapp3.1\ZigZag Traversal.AssemblyInfoInputs.cache
+C:\Users\bhajzer\Projects\Educative.io-Projects\ZigZag Traversal\obj\Debug\netcoreapp3.1\ZigZag Traversal.AssemblyInfo.cs
+C:\Users\bhajzer\Projects\Educative.io-Projects\ZigZag Traversal\obj\Debug\netcoreapp3.1\ZigZag Traversal.csproj.CoreCompileInputs.cache
+C:\Users\bhajzer\Projects\Educative.io-Projects\ZigZag Traversal\obj\Debug\netcoreapp3.1\ZigZag Traversal.dll
+C:\Users\bhajzer\Projects\Educative.io-Projects\ZigZag Traversal\obj\Debug\netcoreapp3.1\ZigZag Traversal.pdb
+C:\Users\bhajzer\Projects\Educative.io-Projects\ZigZag Traversal\obj\Debug\netcoreapp3.1\ZigZag Traversal.genruntimeconfig.cache

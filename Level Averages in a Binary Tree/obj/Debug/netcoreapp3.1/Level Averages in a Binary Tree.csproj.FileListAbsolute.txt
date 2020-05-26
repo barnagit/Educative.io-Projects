@@ -1,0 +1,13 @@
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Averages in a Binary Tree\bin\Debug\netcoreapp3.1\Level Averages in a Binary Tree.exe
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Averages in a Binary Tree\bin\Debug\netcoreapp3.1\Level Averages in a Binary Tree.deps.json
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Averages in a Binary Tree\bin\Debug\netcoreapp3.1\Level Averages in a Binary Tree.runtimeconfig.json
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Averages in a Binary Tree\bin\Debug\netcoreapp3.1\Level Averages in a Binary Tree.runtimeconfig.dev.json
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Averages in a Binary Tree\bin\Debug\netcoreapp3.1\Level Averages in a Binary Tree.dll
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Averages in a Binary Tree\bin\Debug\netcoreapp3.1\Level Averages in a Binary Tree.pdb
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Averages in a Binary Tree\obj\Debug\netcoreapp3.1\Level Averages in a Binary Tree.csprojAssemblyReference.cache
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Averages in a Binary Tree\obj\Debug\netcoreapp3.1\Level Averages in a Binary Tree.AssemblyInfoInputs.cache
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Averages in a Binary Tree\obj\Debug\netcoreapp3.1\Level Averages in a Binary Tree.AssemblyInfo.cs
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Averages in a Binary Tree\obj\Debug\netcoreapp3.1\Level Averages in a Binary Tree.csproj.CoreCompileInputs.cache
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Averages in a Binary Tree\obj\Debug\netcoreapp3.1\Level Averages in a Binary Tree.dll
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Averages in a Binary Tree\obj\Debug\netcoreapp3.1\Level Averages in a Binary Tree.pdb
+C:\Users\bhajzer\Projects\Educative.io-Projects\Level Averages in a Binary Tree\obj\Debug\netcoreapp3.1\Level Averages in a Binary Tree.genruntimeconfig.cache

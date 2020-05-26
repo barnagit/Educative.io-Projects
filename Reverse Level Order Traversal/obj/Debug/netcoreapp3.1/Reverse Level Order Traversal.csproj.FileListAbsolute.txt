@@ -1,0 +1,13 @@
+C:\Users\bhajzer\Projects\Educative.io-Projects\Reverse Level Order Traversal\bin\Debug\netcoreapp3.1\Reverse Level Order Traversal.exe
+C:\Users\bhajzer\Projects\Educative.io-Projects\Reverse Level Order Traversal\bin\Debug\netcoreapp3.1\Reverse Level Order Traversal.deps.json
+C:\Users\bhajzer\Projects\Educative.io-Projects\Reverse Level Order Traversal\bin\Debug\netcoreapp3.1\Reverse Level Order Traversal.runtimeconfig.json
+C:\Users\bhajzer\Projects\Educative.io-Projects\Reverse Level Order Traversal\bin\Debug\netcoreapp3.1\Reverse Level Order Traversal.runtimeconfig.dev.json
+C:\Users\bhajzer\Projects\Educative.io-Projects\Reverse Level Order Traversal\bin\Debug\netcoreapp3.1\Reverse Level Order Traversal.dll
+C:\Users\bhajzer\Projects\Educative.io-Projects\Reverse Level Order Traversal\bin\Debug\netcoreapp3.1\Reverse Level Order Traversal.pdb
+C:\Users\bhajzer\Projects\Educative.io-Projects\Reverse Level Order Traversal\obj\Debug\netcoreapp3.1\Reverse Level Order Traversal.csprojAssemblyReference.cache
+C:\Users\bhajzer\Projects\Educative.io-Projects\Reverse Level Order Traversal\obj\Debug\netcoreapp3.1\Reverse Level Order Traversal.AssemblyInfoInputs.cache
+C:\Users\bhajzer\Projects\Educative.io-Projects\Reverse Level Order Traversal\obj\Debug\netcoreapp3.1\Reverse Level Order Traversal.AssemblyInfo.cs
+C:\Users\bhajzer\Projects\Educative.io-Projects\Reverse Level Order Traversal\obj\Debug\netcoreapp3.1\Reverse Level Order Traversal.csproj.CoreCompileInputs.cache
+C:\Users\bhajzer\Projects\Educative.io-Projects\Reverse Level Order Traversal\obj\Debug\netcoreapp3.1\Reverse Level Order Traversal.dll
+C:\Users\bhajzer\Projects\Educative.io-Projects\Reverse Level Order Traversal\obj\Debug\netcoreapp3.1\Reverse Level Order Traversal.pdb
+C:\Users\bhajzer\Projects\Educative.io-Projects\Reverse Level Order Traversal\obj\Debug\netcoreapp3.1\Reverse Level Order Traversal.genruntimeconfig.cache

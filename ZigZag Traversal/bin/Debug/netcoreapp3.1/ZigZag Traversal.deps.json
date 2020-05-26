@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ZigZag Traversal/1.0.0": {
+        "runtime": {
+          "ZigZag Traversal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZigZag Traversal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
