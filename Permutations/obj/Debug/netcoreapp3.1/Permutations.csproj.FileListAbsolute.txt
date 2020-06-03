@@ -1,0 +1,13 @@
+C:\Users\barna\Projects\Educative.io-Projects\Permutations\bin\Debug\netcoreapp3.1\Permutations.exe
+C:\Users\barna\Projects\Educative.io-Projects\Permutations\bin\Debug\netcoreapp3.1\Permutations.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Permutations\bin\Debug\netcoreapp3.1\Permutations.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Permutations\bin\Debug\netcoreapp3.1\Permutations.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Permutations\bin\Debug\netcoreapp3.1\Permutations.dll
+C:\Users\barna\Projects\Educative.io-Projects\Permutations\bin\Debug\netcoreapp3.1\Permutations.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Permutations\obj\Debug\netcoreapp3.1\Permutations.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Permutations\obj\Debug\netcoreapp3.1\Permutations.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Permutations\obj\Debug\netcoreapp3.1\Permutations.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Permutations\obj\Debug\netcoreapp3.1\Permutations.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Permutations\obj\Debug\netcoreapp3.1\Permutations.dll
+C:\Users\barna\Projects\Educative.io-Projects\Permutations\obj\Debug\netcoreapp3.1\Permutations.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Permutations\obj\Debug\netcoreapp3.1\Permutations.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\barna\Projects\Educative.io-Projects\Subsets With Duplicates\obj\Debug\netcoreapp3.1\Subsets With Duplicates.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Subsets With Duplicates\obj\Debug\netcoreapp3.1\Subsets With Duplicates.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Subsets With Duplicates\obj\Debug\netcoreapp3.1\Subsets With Duplicates.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Subsets With Duplicates\obj\Debug\netcoreapp3.1\Subsets With Duplicates.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Subsets With Duplicates\bin\Debug\netcoreapp3.1\Subsets With Duplicates.exe
+C:\Users\barna\Projects\Educative.io-Projects\Subsets With Duplicates\bin\Debug\netcoreapp3.1\Subsets With Duplicates.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Subsets With Duplicates\bin\Debug\netcoreapp3.1\Subsets With Duplicates.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Subsets With Duplicates\bin\Debug\netcoreapp3.1\Subsets With Duplicates.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Subsets With Duplicates\bin\Debug\netcoreapp3.1\Subsets With Duplicates.dll
+C:\Users\barna\Projects\Educative.io-Projects\Subsets With Duplicates\bin\Debug\netcoreapp3.1\Subsets With Duplicates.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Subsets With Duplicates\obj\Debug\netcoreapp3.1\Subsets With Duplicates.dll
+C:\Users\barna\Projects\Educative.io-Projects\Subsets With Duplicates\obj\Debug\netcoreapp3.1\Subsets With Duplicates.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Subsets With Duplicates\obj\Debug\netcoreapp3.1\Subsets With Duplicates.genruntimeconfig.cache

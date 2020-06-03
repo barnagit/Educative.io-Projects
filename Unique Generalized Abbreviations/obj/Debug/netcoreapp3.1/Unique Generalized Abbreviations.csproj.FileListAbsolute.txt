@@ -1,0 +1,13 @@
+C:\Users\barna\Projects\Educative.io-Projects\Unique Generalized Abbreviations\bin\Debug\netcoreapp3.1\Unique Generalized Abbreviations.exe
+C:\Users\barna\Projects\Educative.io-Projects\Unique Generalized Abbreviations\bin\Debug\netcoreapp3.1\Unique Generalized Abbreviations.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Unique Generalized Abbreviations\bin\Debug\netcoreapp3.1\Unique Generalized Abbreviations.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Unique Generalized Abbreviations\bin\Debug\netcoreapp3.1\Unique Generalized Abbreviations.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Unique Generalized Abbreviations\bin\Debug\netcoreapp3.1\Unique Generalized Abbreviations.dll
+C:\Users\barna\Projects\Educative.io-Projects\Unique Generalized Abbreviations\bin\Debug\netcoreapp3.1\Unique Generalized Abbreviations.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Unique Generalized Abbreviations\obj\Debug\netcoreapp3.1\Unique Generalized Abbreviations.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Unique Generalized Abbreviations\obj\Debug\netcoreapp3.1\Unique Generalized Abbreviations.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Unique Generalized Abbreviations\obj\Debug\netcoreapp3.1\Unique Generalized Abbreviations.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Unique Generalized Abbreviations\obj\Debug\netcoreapp3.1\Unique Generalized Abbreviations.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Unique Generalized Abbreviations\obj\Debug\netcoreapp3.1\Unique Generalized Abbreviations.dll
+C:\Users\barna\Projects\Educative.io-Projects\Unique Generalized Abbreviations\obj\Debug\netcoreapp3.1\Unique Generalized Abbreviations.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Unique Generalized Abbreviations\obj\Debug\netcoreapp3.1\Unique Generalized Abbreviations.genruntimeconfig.cache

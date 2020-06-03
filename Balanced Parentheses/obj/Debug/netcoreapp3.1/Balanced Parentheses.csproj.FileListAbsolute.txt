@@ -1,0 +1,13 @@
+C:\Users\barna\Projects\Educative.io-Projects\Balanced Parentheses\bin\Debug\netcoreapp3.1\Balanced Parentheses.exe
+C:\Users\barna\Projects\Educative.io-Projects\Balanced Parentheses\bin\Debug\netcoreapp3.1\Balanced Parentheses.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\Balanced Parentheses\bin\Debug\netcoreapp3.1\Balanced Parentheses.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\Balanced Parentheses\bin\Debug\netcoreapp3.1\Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\Balanced Parentheses\bin\Debug\netcoreapp3.1\Balanced Parentheses.dll
+C:\Users\barna\Projects\Educative.io-Projects\Balanced Parentheses\bin\Debug\netcoreapp3.1\Balanced Parentheses.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Balanced Parentheses\obj\Debug\netcoreapp3.1\Balanced Parentheses.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\Balanced Parentheses\obj\Debug\netcoreapp3.1\Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Balanced Parentheses\obj\Debug\netcoreapp3.1\Balanced Parentheses.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\Balanced Parentheses\obj\Debug\netcoreapp3.1\Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\Balanced Parentheses\obj\Debug\netcoreapp3.1\Balanced Parentheses.dll
+C:\Users\barna\Projects\Educative.io-Projects\Balanced Parentheses\obj\Debug\netcoreapp3.1\Balanced Parentheses.pdb
+C:\Users\barna\Projects\Educative.io-Projects\Balanced Parentheses\obj\Debug\netcoreapp3.1\Balanced Parentheses.genruntimeconfig.cache

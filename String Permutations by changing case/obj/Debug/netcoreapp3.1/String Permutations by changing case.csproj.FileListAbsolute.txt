@@ -1,0 +1,13 @@
+C:\Users\barna\Projects\Educative.io-Projects\String Permutations by changing case\bin\Debug\netcoreapp3.1\String Permutations by changing case.exe
+C:\Users\barna\Projects\Educative.io-Projects\String Permutations by changing case\bin\Debug\netcoreapp3.1\String Permutations by changing case.deps.json
+C:\Users\barna\Projects\Educative.io-Projects\String Permutations by changing case\bin\Debug\netcoreapp3.1\String Permutations by changing case.runtimeconfig.json
+C:\Users\barna\Projects\Educative.io-Projects\String Permutations by changing case\bin\Debug\netcoreapp3.1\String Permutations by changing case.runtimeconfig.dev.json
+C:\Users\barna\Projects\Educative.io-Projects\String Permutations by changing case\bin\Debug\netcoreapp3.1\String Permutations by changing case.dll
+C:\Users\barna\Projects\Educative.io-Projects\String Permutations by changing case\bin\Debug\netcoreapp3.1\String Permutations by changing case.pdb
+C:\Users\barna\Projects\Educative.io-Projects\String Permutations by changing case\obj\Debug\netcoreapp3.1\String Permutations by changing case.csprojAssemblyReference.cache
+C:\Users\barna\Projects\Educative.io-Projects\String Permutations by changing case\obj\Debug\netcoreapp3.1\String Permutations by changing case.AssemblyInfoInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\String Permutations by changing case\obj\Debug\netcoreapp3.1\String Permutations by changing case.AssemblyInfo.cs
+C:\Users\barna\Projects\Educative.io-Projects\String Permutations by changing case\obj\Debug\netcoreapp3.1\String Permutations by changing case.csproj.CoreCompileInputs.cache
+C:\Users\barna\Projects\Educative.io-Projects\String Permutations by changing case\obj\Debug\netcoreapp3.1\String Permutations by changing case.dll
+C:\Users\barna\Projects\Educative.io-Projects\String Permutations by changing case\obj\Debug\netcoreapp3.1\String Permutations by changing case.pdb
+C:\Users\barna\Projects\Educative.io-Projects\String Permutations by changing case\obj\Debug\netcoreapp3.1\String Permutations by changing case.genruntimeconfig.cache
